@@ -1,0 +1,20 @@
+{
+  "name": "homeSession2-Day1",
+  "version": "1.0.0",
+  "description": "getPrime",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronkeadun/homeSession2-Day1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronkeadun/homeSession2-Day1/issues"
+  },
+  "homepage": "https://github.com/ronkeadun/homeSession2-Day1#readme"
+}
