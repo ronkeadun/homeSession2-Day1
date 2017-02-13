@@ -17,6 +17,6 @@ describe("Get prime numbers", function() {
     expect(val.getPrimes(1) == []);
   })
   it("should return [2] as prime numbers for 2", function() {
-    expect(val.getPrimes(2) == [ 2]);
+    expect(val.getPrimes(-20) == []);
   })
 })
